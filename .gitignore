@@ -219,3 +219,6 @@ __marimo__/
 
 # Arquivos de imagem do grafo gerados
 *.png
+
+# Arquivo de teste
+test_vias.py
