@@ -1,4 +1,4 @@
-<!-- CABEÇALHO -->
+
 <div align="center">
   <img src="imagens/cabecalho_branco.jpg" alt="Cabeçalho do Projeto" width="100%">
 </div>
@@ -9,7 +9,8 @@ Visualize grafos e verifique se eles têm loops excessivos.
 
 ## 📸 Demo
 
-<video src="imagens/video_uso.mp4" controls width="600"></vid>
+https://github.com/user-attachments/assets/957c8589-ccaf-4e79-b4db-7a86fe0ad8aa
+
 
 ## 📦 Instalação
 
@@ -21,9 +22,11 @@ cd project-name
 pip install -r requirements.txt
 ```
 
-## Temática
+## Lógica e temática
 
-Esse projeto baseia-se no tema de um povo fictício que habitava ilhas conectadas por rodovias e hidrovias. Leia o arquivo ```juvias.ipynb``` ou o texto-base do problema em [1] para situar-se melhor.
+O arquivo ```juvias.ipynb``` explica o algoritmo desenvolvido a partir de seções do código, como a classe `Arquipelago`, seus métodos e suas lógicas.
+A temática dessa abordagem, baseada em ilhas de um arquipélago ligadas por rodovias e hidrovias, é inspirada em uma questão elaborada pela Olimpíada Brasileira
+de Informática [1].
 
 ## 🛠 Uso
 
